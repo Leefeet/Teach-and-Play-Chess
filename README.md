@@ -1,2 +1,6 @@
 # Teach-and-Play-Chess
 A digital Chess game that can help players visualize moves to better understand and play the game.
+
+Teach and Play Chess allows any player to play chess, even if they don't know how. A player can hover the mouse over any piece, theirs or their opponent's, to see all possible valid moves. This provides visual foresight for players to help them better understand the chess pieces and form potential strategy. The program also detects if a player's king is in check and will inform the player of which pieces/moves are valid to save the king from check. The program keeps track of player turns and ends if a player wins or if there's a draw.
+
+The project was created to practice working with Java, UI, and general OOP concepts. The program utilizes JavaFX to help with the UI display, and although JavaFX isn't considered a modern tool (especially with web apps being popular) using it was great practice for working with libraries and UI. A few Chess functions, such as castling or en passant, aren't implemented but could be easily implemented with a bit more programming. Some algorithms could be optimized to improve performance, but as the program stands now it functions as originally intended.
